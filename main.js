@@ -1,6 +1,6 @@
 const linksRedesSociais = {
   github: 'miguelmachadofs',
-  youtube: 'channel/UCV2tYapJqlW0VIFFtYA4bfA',
+  linkedin: 'in/miguelmfs',
   facebook: 'profile.php?id=100005870082408',
   instagram: 'miguelmachadofs',
   twitter: 'miguelmachadofs'
